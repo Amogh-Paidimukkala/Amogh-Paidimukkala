@@ -9,12 +9,14 @@
     <title>Document</title>
 </head>
 <body>
-    Hello
-    - 🔭 I’m currently working on expanding my programming skills
+ <div>
+ Hello
+- 🔭 I’m currently working on expanding my programming skills
 - 🌱 I’m currently learning Rust Programming Labguage
 - 📫 How to reach me: https://www.linkedin.com/in/amogh-paidimukkala/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Facts are bitter but never sweeet!
+</div>
 </body>
 </html>
 
