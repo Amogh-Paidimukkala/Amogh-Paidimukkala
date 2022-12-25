@@ -9,12 +9,12 @@
 </head>
 <body>
  <div>
- Hello
-- 🔭 I’m currently working on expanding my programming skills
-- 🌱 I’m currently learning Rust Programming Labguage
-- 📫 How to reach me: https://www.linkedin.com/in/amogh-paidimukkala/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Facts are bitter but never sweeet!
+ Hello <br>
+- 🔭 I’m currently working on expanding my programming skills <br>
+- 🌱 I’m currently learning Rust Programming Labguage <br>
+- 📫 How to reach me: https://www.linkedin.com/in/amogh-paidimukkala/ <br>
+- 😄 Pronouns: He/Him <br>
+- ⚡ Fun fact: Facts are bitter but never sweeet! <br>
 </div>
 </body>
 </html>
