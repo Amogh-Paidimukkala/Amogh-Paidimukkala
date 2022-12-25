@@ -11,7 +11,7 @@
  <div>
  Hello <br>
 - 🔭 I’m currently working on expanding my programming skills <br>
-- 🌱 I’m currently learning Rust Programming Labguage <br>
+- 🌱 I’m currently learning Rust Programming Language <br>
 - 📫 How to reach me: https://www.linkedin.com/in/amogh-paidimukkala/ <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Facts are bitter but never sweeet! <br>
