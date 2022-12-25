@@ -16,6 +16,9 @@
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Facts are bitter but never sweeet! <br>
 </div>
+<div>
+ <img src="https://wallpapercave.com/wp/gwAXRwC.jpg" alt="Image of Pink floyd the wall album"/>
+</div>
 </body>
 </html>
 
