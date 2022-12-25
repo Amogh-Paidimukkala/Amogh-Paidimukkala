@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
+<body gcolor=”#800000">
  <div>
  Hello <br>
 - 🔭 I’m currently working on expanding my programming skills <br>
