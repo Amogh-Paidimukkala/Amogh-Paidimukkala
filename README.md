@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Rust Programming Language <br>
 - 📫 How to reach me: https://www.linkedin.com/in/amogh-paidimukkala/ <br>
 - 😄 Pronouns: He/Him <br>
-- ⚡ Fun fact: Facts are bitter but never sweeet! <br>
+- ⚡ Fun fact: You are just reading 0s and 1s through photons <br>
 </div>
 <div>
  <img src="https://wallpapercave.com/wp/gwAXRwC.jpg" alt="Image of Pink floyd the wall album"/>
